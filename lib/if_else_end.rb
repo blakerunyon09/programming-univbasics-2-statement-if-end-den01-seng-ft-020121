@@ -1,1 +1,1 @@
-puts Time.now
+puts Time.now.to_i
